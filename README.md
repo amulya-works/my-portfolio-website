@@ -2,7 +2,7 @@
 
 This is my personal portfolio website showcasing my projects and web development skills.
 
-Live Website: https://luminous-truffle-669fc9.netlify.app/
+Live Website: https://neon-pothos-ec4834.netlify.app/
 
 ---
 
